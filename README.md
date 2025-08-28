@@ -71,9 +71,3 @@ This project is licensed under the MIT License — see the LICENSE file for deta
 - yt-dlp – The core downloader backend
 - FFmpeg – Media processing
 
-
-
-
-
-# yt-dlp-gui
-Simple Python GUI YouTube Downloader
